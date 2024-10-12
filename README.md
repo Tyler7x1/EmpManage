@@ -1,7 +1,7 @@
 # EmpManage
 
 ## Description
-User Management System is a web application that allows for the creation, retrieval, update, and deletion of user accounts. It utilizes MongoDB for data storage and Mongoose for modeling user data. The application provides functionality to manage user credentials securely and efficiently.
+EmpManage is a web application that allows for the creation, retrieval, update, and deletion of user accounts. It utilizes MongoDB for data storage and Mongoose for modeling user data. The application provides functionality to manage user credentials securely and efficiently.
 
 ## Features
 - User registration with unique email and employee ID.
