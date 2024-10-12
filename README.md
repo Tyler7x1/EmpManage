@@ -41,23 +41,23 @@ User Management System is a web application that allows for the creation, retrie
 
 # API Endpoints Summary
 ## User Registration
-  ### POST /api/users
+### POST /api/users
 - Request Body: { "name": "John Doe", "email": "john@example.com", "password": "securePassword", "emp_id": 12345 }
 
 ## Update Password
-  ### PATCH /api/users/email/:email
+### PATCH /api/users/email/:email
 - Request Body: { "password": "newSecurePassword" }
 
-  ### PATCH /api/users/id/:id
+### PATCH /api/users/id/:id
 - Request Body: { "password": "newSecurePassword" }
 
 ## Find User
-  ### GET /api/users/username/:username
-  ### GET /api/users/email/:email
-  ### GET /api/users/id/:id
+### GET /api/users/username/:username
+### GET /api/users/email/:email
+### GET /api/users/id/:id
 
 ## Get All Users
-  ### GET /api/users
+### GET /api/users
 
 ## Delete User
-  ### DELETE /api/users/id/:id
+### DELETE /api/users/id/:id
