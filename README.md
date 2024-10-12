@@ -24,7 +24,7 @@ User Management System is a web application that allows for the creation, retrie
 - Git
 
 ## Clone the Repository
-- git clone [https://github.com/USERNAME/REPOSITORY.git](https://github.com/Tyler731137/EmpManage)
+- git clone [https://github.com/Tyler731137/EmpManage]
 
 ## Navigate to the Project Directory
 - cd <Your Repo>
