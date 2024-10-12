@@ -52,12 +52,12 @@ User Management System is a web application that allows for the creation, retrie
 - Request Body: { "password": "newSecurePassword" }
 
 ## Find User
-### GET /api/users/username/:username
-### GET /api/users/email/:email
-### GET /api/users/id/:id
+- ### GET /api/users/username/:username
+- ### GET /api/users/email/:email
+- ### GET /api/users/id/:id
 
 ## Get All Users
-### GET /api/users
+- ### GET /api/users
 
 ## Delete User
-### DELETE /api/users/id/:id
+- ### DELETE /api/users/id/:id
