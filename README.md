@@ -27,7 +27,7 @@ User Management System is a web application that allows for the creation, retrie
 - git clone [https://github.com/Tyler731137/EmpManage]
 
 ## Navigate to the Project Directory
-- cd <Your Repo>
+- cd [Your_Repo_Folder]
 
 ## Install Dependencies
 - npm install express mongoose
