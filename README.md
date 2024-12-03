@@ -24,7 +24,7 @@ EmpManage is a web application that allows for the creation, retrieval, update, 
 - Git
 
 ## Clone the Repository
-- git clone [https://github.com/Tyler731137/EmpManage]
+- git clone [https://github.com/Tyler7x1/EmpManage]
 
 ## Navigate to the Project Directory
 - cd [Your_Repo_Folder]
